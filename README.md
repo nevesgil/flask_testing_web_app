@@ -1,4 +1,3 @@
-# flask_web_app
+# Testing for a Flask Web App development.
 
-2021-02-05: setting up the testing environment
-2021-02-06: Failure on testing some html templates.
+# On 2022-02-06
